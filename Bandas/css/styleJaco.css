@@ -1,0 +1,37 @@
+body{
+  align-items: center;
+  background: #d3d0d0; 
+}
+.img{
+  height: 100%;
+text-align: center;
+align-items: center;
+} 
+.bio{
+text-align: center;
+text-align: justify;
+font-family: 'Roboto', sans-serif;
+font-size:25px;
+margin-left:27rem;
+width: 50%;
+
+}
+h1{
+margin-left: 24rem;
+font-size: 30px;
+}
+
+.audio{
+  text-align: center;
+}
+.separar-clipes{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+.separar-clipes div{
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}

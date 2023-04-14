@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h2{
+ font-family: 'Inter', sans-serif;
+ font-size: normal;
+ padding: 20px;
+}
+
+.sobregroup{
+    font-family: 'Inter', sans-serif;
+    font-size: normal;
+    font-weight: 10px;
+    margin-left:20px;
+   
+}
+.clipes{
+    margin-bottom: 46px;
+}
+div{
+    margin-left: 50px;
+}
+nav{ 
+     margin-left: 50px;
+}
+
+.power{
+   margin-bottom: 46px;
+}
+.sweet{
+    margin-bottom: 46px;
+}
+
+.nome-banda{
+    position: absolute;
+    width: 362px;
+    height: 58px;
+    left:590px;
+    top: 700px;
+    text-align: center;
+    color: #fff;
+    margin-left: 30px;
+}

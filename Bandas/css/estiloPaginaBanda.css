@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: gray;
+}
+
+
+p{
+    text-align: justify;
+    font-size: 15px;
+    padding: 10px;
+    
+}
+
+h1{
+    font-family: 'Inter'sans-serif;
+    padding: 10px;
+}
+
+
+.imagemPrincipal{
+    height: 60rem;
+    width: 116rem;
+}
+
+h2{
+    padding: 8px;
+}
+
+.img1,.img2,.img3,.img4{
+    
+    height: 80px;
+    width: 80px;
+    border-radius: 70px;
+    
+}
+
+.nome-banda{
+position: absolute;
+width: 362px;
+height: 58px;
+left: 800px;
+top: 400px;
+
+
+color: #fff;
+font-size: 50px;
+
+}
+
+
+
+
+
+
